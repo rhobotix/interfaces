@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <description>Contains message and service definitions used for rho.</description>
     <maintainer email="rautnalin@gmail.com">Nalin Raut</maintainer>
-    <license>BSD-3</license>
+    <license>MIT</license>
 
     <buildtool_depend>ament_cmake</buildtool_depend>
 

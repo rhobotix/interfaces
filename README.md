@@ -1,2 +1,2 @@
 # interfaces
-Custom ROS2 message types used for rho
+Custom ROS2 interfaces for rho
